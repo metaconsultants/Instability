@@ -8,4 +8,5 @@ Here we are adding a summary of buckling that is simulated by us in <code> Abaqu
 The motivation behind such numerical models lie to  quantify the amount and nature of wrinkling and buckling in materials that could form the basis of the modeling e.g. flexible electronics, designing skin related actuators. <br /> 
 **Cylinder_Bulging** - Bulge modeling in Abaqus . (Applications in biomechanics) [Tube Mechanics](https://github.com/metaconsultants/Instability/wiki/Bulging) and check out this youtube [Video](https://www.youtube.com/watch?v=yYXma5H8h8Y) <br />
 **Why plant leaves bend or twist ?** - [In progress]  <br />
-**Imperfections in spider web  ?** - [In progress]
+**Imperfections in spider web  ?** - [In progress]  <br />
+**Pre-stretched induced instability?** - [In progress]  <br />
